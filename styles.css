@@ -1,17 +1,49 @@
-.devFavorites {
+body{
+    width: 800px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:12px;
+}
+.devFavorites{
+    background-color: floralwhite;
+    padding: 1em;
+}
+
+.devFavorites h1 {
     width:800px;
     text-align: center;
 }
 
 h1, h2, h3, h4 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 1.5em;
-    color: darkviolet;
+    color: darkcyan;
     margin: 1em 0;
 }
 
+.devFavorites ul li{
+    margin-top:1em;
+}
 .devFavorites ul li strong{
-    display: block;
-    color:red;
-    
+    color:darkcyan;
+}
+img{
+    width: 800px;
+
+}
+
+navbar a{
+    display: inline-block;
+    background-color: darkcyan;
+    color: white;
+    text-decoration: none;
+    padding: 1em;
+    margin: 2px;
+}
+
+section {
+    margin: 40px 0;
+}
+
+.hours li{
+    line-height: 1.5em;
 }
