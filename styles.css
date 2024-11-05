@@ -1,0 +1,17 @@
+.devFavorites {
+    width:800px;
+    text-align: center;
+}
+
+h1, h2, h3, h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    color: darkviolet;
+    margin: 1em 0;
+}
+
+.devFavorites ul li strong{
+    display: block;
+    color:red;
+    
+}
