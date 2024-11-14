@@ -51,4 +51,6 @@ section {
     justify-content: space-evenly;
     
 }
-.gallery img, footer div {height: 200px;}
+.gallery img, footer div {
+    height: 200px;
+}
