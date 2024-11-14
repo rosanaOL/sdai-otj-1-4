@@ -46,9 +46,9 @@ section {
     line-height: 1.5em;
 }
 
-.gallery {
+.gallery, footer  {
     display: flex;
     justify-content: space-evenly;
     
 }
-.gallery img {height: 200px;}
+.gallery img, footer div {height: 200px;}
